@@ -3,8 +3,8 @@ class Ytruntime < Formula
 
   desc "CLI for calculating YouTube playlist runtime statistics"
   homepage "https://github.com/Adityagaddhyan/ytruntime"
-  url "https://files.pythonhosted.org/packages/98/03/6f578004aa84524bc65d45b4a5941ed86ed2bc78e2c9cb6d93c83c52a90b/ytruntime-0.1.0.tar.gz"
-  sha256 "906b91f8760caeeb41ca301504dd4aa4dc5afc8433674704d432bd08a66d05d1"
+  url "https://files.pythonhosted.org/packages/53/7d/ccbceb64f7cda199c858e1513939d2971f22b0dd2f6f3b0f7f871152d539/ytruntime-0.1.2.tar.gz"
+  sha256 "b91aff38a563f530916aee1122dac59039d6b633f5eb7da806af61032792e9ef"
   license "MIT"
 
   depends_on "python@3.13"
