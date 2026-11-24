@@ -19,6 +19,7 @@ Or in one step: `brew install adityagaddhyan/tap/<name>`.
 | Name | What it is | Install |
 | --- | --- | --- |
 | [ytruntime](https://github.com/Adityagaddhyan/ytruntime) | CLI that calculates YouTube playlist runtime: totals, averages, per-video table, JSON/CSV export | `brew install adityagaddhyan/tap/ytruntime` |
+| [ViewDeck](https://github.com/Adityagaddhyan/viewdeck) | Free, keyboard-first database GUI for PostgreSQL, RDS & Aurora (macOS app; installs awscli + session-manager-plugin) | `brew install --cask adityagaddhyan/tap/viewdeck` |
 
 ## Updating
 
