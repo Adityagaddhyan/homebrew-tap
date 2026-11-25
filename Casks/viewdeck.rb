@@ -1,9 +1,9 @@
 cask "viewdeck" do
   arch arm: "arm64", intel: "x64"
 
-  version "0.2.0"
-  sha256 arm:   "88d66357df155914e355ce3dbecd4e206b80f9825db9b7cb9f226c720c52dc4d",
-         intel: "ab48b8f03bdfc774aa88749b1b348874fedee5c30a648e9458d10d7ff14b1a35"
+  version "0.2.2"
+  sha256 arm:   "41d798881ab4034aba8f8f0ed4af456d01fa436ec1b0f7817fc80dc452d947f9",
+         intel: "be35faa2eaecb5b6958c00b0bebd28ce8030700f179a00f99fd9a5ec8de3e2f6"
 
   url "https://github.com/Adityagaddhyan/viewdeck/releases/download/v#{version}/ViewDeck-#{version}-#{arch}-mac.zip"
   name "ViewDeck"
